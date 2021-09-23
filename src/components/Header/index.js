@@ -5,7 +5,7 @@ import {Container} from './styles';
 export default function Header() {
   return (
     <Container>
-      <h1>Dudafy</h1>
+      <h1>Pipefy Clone</h1>
     </Container>
   )
-}
+};

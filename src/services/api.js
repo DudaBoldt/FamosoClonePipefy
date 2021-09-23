@@ -14,7 +14,7 @@ export function loadLists() {
           id: 2,
           content: 'Criar vídeo para o Youtube ensinando a recriar a interface do Pipefy',
           labels: ['#7159c1'],
-          user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+          user: 'https://cdn.discordapp.com/attachments/859157967785295922/890680778638372945/zelambendonariz.jpg'
         },
         {
           id: 3,
@@ -44,7 +44,7 @@ export function loadLists() {
           id: 6,
           content: 'Recriando clone do Pipefy',
           labels: [],
-          user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+          user: 'https://cdn.discordapp.com/attachments/859157967785295922/890689199974547516/Saiba-Tudo-Sobre-a-Calopsita-1200x675.jpg'
         }
       ]
     },
@@ -56,13 +56,13 @@ export function loadLists() {
           id: 7,
           content: 'Gravar sobre Geolocalização e mapas com React Native',
           labels: ['#7159c1'],
-          user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+          user: 'https://cdn.discordapp.com/attachments/859157967785295922/890689199974547516/Saiba-Tudo-Sobre-a-Calopsita-1200x675.jpg'
         },
         {
           id: 8,
           content: 'Gravar testes e deploy ReactJS',
           labels: ['#54e1f7'],
-          user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+          user: 'https://cdn.discordapp.com/attachments/859157967785295922/890689199974547516/Saiba-Tudo-Sobre-a-Calopsita-1200x675.jpg'
         },
         {
           id: 9,
